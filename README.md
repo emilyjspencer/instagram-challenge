@@ -110,7 +110,7 @@ So I can give my posts context,
 I'd like to be able to give my post a caption
 
 As a registered user,
-In addition to being able to adding a caption to my posts,
+In addition to adding a caption to my posts,
 I'd like to be able to write comments under the post
 
 As a registered user,
